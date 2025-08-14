@@ -1,9 +1,0 @@
-{
-  "dependencies": {
-    "@microlink/react": "^5.5.23",
-    "framer-motion": "^12.23.12",
-    "react": "^19.1.1",
-    "react-scrollbars-custom": "^4.1.1",
-    "styled-components": "^6.1.19"
-  }
-}
